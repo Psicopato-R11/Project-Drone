@@ -1,0 +1,19 @@
+public enum TrackType
+{
+    Tutorial,
+    FogRealm,
+    Lava,
+    SwampRealm,
+    Fear,
+    WaterRealm,
+    RuinsRealm,
+    StormRealm,
+    TimeRealm,
+    JunkRealm,
+    MetroRealm,
+    CosmicRealm,
+    WindRealm,
+    RainRealm,
+    SkyRealm,
+    Menu,
+}

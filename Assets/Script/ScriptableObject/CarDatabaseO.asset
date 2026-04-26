@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bdfcab3f934d574480387197d500295, type: 3}
+  m_Name: CarDatabaseO
+  m_EditorClassIdentifier: 
+  cars:
+  - {fileID: 6538049854304711328, guid: 2627000f70df6a947ae76ba77443737c, type: 3}
+  - {fileID: 9150301882438912078, guid: c14be6f97b2a3094abb87237a2b191fa, type: 3}
+  - {fileID: 6538049854304711328, guid: 7e195c58334850f49859ffe6c4cd41d7, type: 3}
+  - {fileID: 6538049854304711328, guid: d4a67e64dc99fa5439d4fd17631f58e8, type: 3}
+  - {fileID: 6538049854304711328, guid: 7dcb5af1b1c89794c829ef2e54194a71, type: 3}
+  - {fileID: 3774240583072398277, guid: 6bf2362118ed63448af915c3434c724f, type: 3}
+  - {fileID: 6374205143008947656, guid: 3626022c6e7994f4d9e1a96132f4efaf, type: 3}
+  - {fileID: 6538049854304711328, guid: 8579a2a560fae004ba0e9328aa688f43, type: 3}
+  - {fileID: 6538049854304711328, guid: 5b69945c51209364a960b5d70d0ca394, type: 3}
+  - {fileID: 6538049854304711328, guid: 6fca596f6db48b043a763dac6bbb70f7, type: 3}
+  - {fileID: 6538049854304711328, guid: ed542134807eddf4e9caa6cb26fe3174, type: 3}
+  - {fileID: 6538049854304711328, guid: 3e25ddba184d68d4fa4269a9fc9a1cd7, type: 3}
+  - {fileID: 6538049854304711328, guid: eb4a2777d5323534aaab8221f0ce95ac, type: 3}
+  - {fileID: 6538049854304711328, guid: f853d67de07c7b74db175c8f2a287e8d, type: 3}
+  - {fileID: 6538049854304711328, guid: 0a54c6b28d4ee3a45a769eeabba9bd38, type: 3}

@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: 93040f2606950d24f86aedd26f035293
+  - enabled: 1
+    path: Assets/ListaDePistas.unity
+    guid: e9efd123046cdae4395791678457b58b
+  - enabled: 1
+    path: Assets/FogRealm.unity
+    guid: 9ca3e3f5244eb954fbebb59e77db5d11
+  - enabled: 1
+    path: Assets/Lava.unity
+    guid: bbf85f10c8f8c2a4b98622261b7ca73f
+  - enabled: 1
+    path: Assets/SwampRealm.unity
+    guid: 94b5d1ce7c598414aa06a57e4a89e40d
+  - enabled: 1
+    path: Assets/WaterRealm.unity
+    guid: 33e77493ae1a9e14384c7b412a9b9a06
+  - enabled: 1
+    path: Assets/Tutorial.unity
+    guid: d692601184e79cb4fa37a90e96151bdf
+  - enabled: 1
+    path: Assets/Fear.unity
+    guid: 5d939d53b4da1d44e9741770bb0c1c08
+  - enabled: 1
+    path: Assets/RuinsRealm.unity
+    guid: c88bbc69ce34da649bc6e5ef89bd87d4
+  - enabled: 1
+    path: Assets/BazingaRealm.unity
+    guid: 169578cfae6394c498f168e110fe0467
+  - enabled: 1
+    path: Assets/CarSelecion.unity
+    guid: aa81ba74a78023f4ca6d1ee3125d41d9
+  - enabled: 1
+    path: Assets/StormRealm.unity
+    guid: 6bd2c4bb529578043ba8984d924ad421
+  - enabled: 1
+    path: Assets/TimeRealm.unity
+    guid: 0b6883f30b7ff5147816bca8e3138d5f
+  - enabled: 1
+    path: Assets/JunkRealm.unity
+    guid: c33f2baab45f2dd49bb0361b1f8979e9
+  - enabled: 1
+    path: Assets/MetroRealm.unity
+    guid: 5899ea48b23890141b93063026b50340
+  - enabled: 1
+    path: Assets/AccelechargerSelection.unity
+    guid: fa6814e32418bb1418e9f324b0bd8a05
+  - enabled: 1
+    path: Assets/CosmicRealm.unity
+    guid: a3c8dd196f982e64a926ad5ca2d5e150
+  - enabled: 1
+    path: Assets/WindRealm.unity
+    guid: 05e89d41cc7dc0e45ae936d210c23ad2
+  - enabled: 1
+    path: Assets/RainRealm.unity
+    guid: 0cea08db8c329fb47981dcecd2b3e270
+  - enabled: 1
+    path: Assets/SkyRealm.unity
+    guid: 429befcaeff58ba46930e977674777d6
+  - enabled: 1
+    path: Assets/UR_FogRealm.unity
+    guid: 8bdcd8c89bfeb84449f569fb5d16fb7a
+  - enabled: 1
+    path: Assets/UR_CosmicRealm.unity
+    guid: f7d069228319b244fbddd129c9fff236
+  - enabled: 1
+    path: Assets/UR_FearRealm.unity
+    guid: 9f53ba2bb66b82a4099b2bf65db8aa48
+  - enabled: 1
+    path: Assets/UR_JunkRealm.unity
+    guid: 4a6b5e339b0ef834c840ad7271cf0137
+  - enabled: 1
+    path: Assets/UR_LavaRealm.unity
+    guid: 74aae396871dcbf4a83ec1ea807ca4d5
+  - enabled: 1
+    path: Assets/UR_MetroRealm.unity
+    guid: e2c67fa5bbb65b7458ed505fdc2d043f
+  - enabled: 1
+    path: Assets/UR_RuinsRealm.unity
+    guid: 07249bfd2022d1f4d9014b0de515c08f
+  - enabled: 1
+    path: Assets/UR_StormRealm.unity
+    guid: 895ef78a99ee2784eb203ae861539283
+  - enabled: 1
+    path: Assets/UR_SwampRealm.unity
+    guid: f6d980f8e7240bb4894b63be6e03fe79
+  - enabled: 1
+    path: Assets/UR_TimeRealm.unity
+    guid: 75647c7dd29b7954394c982065eb102c
+  - enabled: 1
+    path: Assets/UR_WaterRealm.unity
+    guid: 37b4c5dd80ddb124aac9905c9af646d3
+  - enabled: 1
+    path: Assets/UR_WindRealm.unity
+    guid: 7b04e62e15f65f9469890ac75766d8e3
+  - enabled: 1
+    path: Assets/UR_RainRealm.unity
+    guid: 6023a60317a19de4b94bf616b24b7587
+  - enabled: 1
+    path: Assets/UR_SkyRealm.unity
+    guid: ee79e450a288f464093441f6ba8d02c2
+  - enabled: 1
+    path: Assets/AcceleronBridge.unity
+    guid: 14d3cddf3d991d843a28925649692d12
+  - enabled: 1
+    path: Assets/Hub.unity
+    guid: 8a3942babf28d7742ba0201057a67fb4
+  - enabled: 1
+    path: Assets/QG.unity
+    guid: 7969e3ab614256e4b85df0790e4bb87f
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
